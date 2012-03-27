@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-server"
+  , "description": "a build tool for bootstrap"
+  , "version": "1.0.0"
+  , "engines": { "node": ">= 0.4.1" }
+  , "main": "web.js"
+  , "dependencies": {
+    "express": "2.5.5"
+  , "uglify-js": "1.2.4"
+  , "less": "1.3.0"
+  , "node-native-zip": "1.0.1"
+  , "author": "Twitter Inc."
+  , "repository": {
+    "type": "git"
+    , "url": "https://github.com/twitter/bootstrap-server.git"
+  }
+  , "licenses": [
+    { "type": "Apache-2.0"
+      , "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  }
+}
