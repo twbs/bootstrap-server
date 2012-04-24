@@ -29,7 +29,7 @@ types.img = require('./lib/img')
 types.js  = require('./lib/js')
 types.css = require('./lib/css')
 
-app.use(express.bodyParser());
+app.use(express.bodyParser())
 
 function refreshCache() {
   Object.keys(types).forEach(function (type) {
