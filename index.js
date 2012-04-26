@@ -40,7 +40,6 @@ function refreshCache() {
 refreshCache()
 setInterval(refreshCache, 1000 * 60 * 60 * 2)
 
-
 // API args:
 //  + js   = array
 //  + css  = array
