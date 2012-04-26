@@ -41,6 +41,12 @@ refreshCache()
 setInterval(refreshCache, 1000 * 60 * 60 * 2)
 
 
+// API args:
+//  + js   = array
+//  + css  = array
+//  + img  = array
+//  + vars = obj
+
 app.get('/', function (req, res) {
   res.send('Bootstrap Server - w/cache. <3');
 })
