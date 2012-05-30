@@ -1,11 +1,11 @@
 {
     "name": "bootstrap-server"
   , "description": "a build tool for bootstrap"
-  , "version": "1.0.0"
+  , "version": "1.0.1"
   , "engines": { "node": "0.6.20" }
   , "main": "web.js"
   , "dependencies": {
-      "express": "2.5.5"
+      "express": "2.5.x"
     , "uglify-js": "1.2.4"
     , "less": "1.3.3"
     , "node-native-zip": "1.0.1"
