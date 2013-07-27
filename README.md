@@ -1,4 +1,4 @@
-## [Bootstrap](http://getbootstrap.com) Server
+## [Bootstrap](http://getbootstrap.com) Server <3
 
 The bootstrap server is responsible for backing the custom builds from bootstrap's download page.
 
