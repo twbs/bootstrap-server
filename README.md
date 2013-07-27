@@ -4,9 +4,6 @@ The bootstrap server is responsible for backing the custom builds from bootstrap
 
 It serves zip files containing custom built and minified css and js.
 
-This needs a lot of work. ;) #GSOC
-
-
 ## Quick start
 
 install dependencies
