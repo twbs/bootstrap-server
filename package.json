@@ -10,10 +10,10 @@
     , "less": "1.3.3"
     , "node-native-zip": "1.0.1"
     }
-  , "author": "Twitter Inc."
+  , "author": "@fat"
   , "repository": {
       "type": "git"
-    , "url": "https://github.com/twitter/bootstrap-server.git"
+    , "url": "https://github.com/twbs/bootstrap-server.git"
     }
   , "licenses": [ { "type": "Apache-2.0" , "url": "http://www.apache.org/licenses/LICENSE-2.0" } ]
 }

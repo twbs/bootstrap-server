@@ -1,8 +1,8 @@
 // ========================================================================
 // bootstrap-server v0.1.0 - tests
-// http://twitter.github.com/bootstrap
+// http://twbs.github.com/bootstrap
 // ========================================================================
-// Copyright 2012 @fat, Inc.
+// Copyright 2013 twitter, Inc.
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
