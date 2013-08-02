@@ -1,22 +1,22 @@
-## [Bootstrap](http://getbootstrap.com) Server <3
+# [Bootstrap](http://getbootstrap.com) Server <3
 
-The bootstrap server is responsible for backing the custom builds from bootstrap's download page.
+The Bootstrap Server is responsible for backing the custom builds from Bootstrap's download page.
 
-It serves zip files containing custom built and minified css and js.
+It serves ZIP files containing custom built and minified CSS and JS.
 
 ## Quick start
 
-install dependencies
+Install dependencies:
 ```
 $ npm install
 ```
 
-start server
+Start server:
 ```
 $ node .
 ```
 
-run tests
+Run tests:
 ```
 $ node tests
 ```
@@ -25,10 +25,11 @@ $ node tests
 
 **Jacob Thornton**
 
-+ http://github.com/fat
+* https://twitter.com/fat
+* https://github.com/fat
 
 ## License
 
 Copyright 2013 Twitter, Inc.
 
-Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
+Licensed under the Apache License v2.0: http://www.apache.org/licenses/LICENSE-2.0.
