@@ -1,3 +1,9 @@
+#### No longer maintained
+
+The Bootstrap server is now handled via all client-side JavaScript within the main Bootstrap rpeo.
+
+-----
+
 ## [Bootstrap](http://getbootstrap.com) Server <3
 
 The bootstrap server is responsible for backing the custom builds from bootstrap's download page.
