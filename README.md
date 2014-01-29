@@ -1,6 +1,6 @@
 #### No longer maintained
 
-The Bootstrap server is now handled via all client-side JavaScript within the main Bootstrap rpeo.
+The Bootstrap server is now handled via all client-side JavaScript within the main Bootstrap repo.
 
 -----
 
