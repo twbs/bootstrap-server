@@ -50,9 +50,7 @@ app.get('/', function (req, res) {
 })
 
 app.post('/', function(req, res) {
-  var dist    = []
-    , started = 0
-    , params  = {}
+  var params  = {}
     , archive = new zip()
 
   params.js   = req.body.js   && JSON.parse(req.body.js)
@@ -68,6 +66,7 @@ app.post('/', function(req, res) {
   function complete (err, files) {
     for (var i in files) archive.add(i, files[i])
   }
+  archive.add('custom.txt', new Buffer(JSON.stringify(params, null, '  '), 'utf8'))
 
   res.attachment('bootstrap.zip')
   res.send(archive.toBuffer())
