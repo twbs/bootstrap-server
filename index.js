@@ -1,6 +1,6 @@
 // ========================================================================
 // bootstrap-server v1.0.0
-// http://twbs.github.com/bootstrap
+// http://github.com/twbs/bootstrap-server
 // ========================================================================
 // Copyright 2013 Twitter, Inc.
 //
